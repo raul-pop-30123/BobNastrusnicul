@@ -63,7 +63,7 @@ The game only runs on Windows (64-bit). No installation needed:
 2. Extract it
 3. Run `BobNastrusnicul_.exe`
 
-> Windows SmartScreen may warn you about an unrecognized app since the executable isn't code-signed — this is expected for a small student project. Click "More info" → "Run anyway" if you trust the source (you built it, after all).
+> Windows SmartScreen may warn you about an unrecognized app since the executable isn't code-signed — this is expected for a small student project. Click "More info" → "Run anyway".
 
 ## How it was built
 
@@ -114,7 +114,7 @@ The source project isn't in this repo, but here's how it was put together, strai
 
 ## Background & credits
 
-This project started as my final assignment ("atestat") for the professional Computer Science competency exam in high school — my first real project in Unity and my first time learning C#. The original academic write-up (in Romanian) is included under [`docs/`](docs/atestat-documentation-ro.pdf) for anyone curious about the process.
+This project started as my final assignment ("Atestat") for the professional Computer Science competency exam in high school — my first real project in Unity and my first time learning C#. The original academic write-up (in Romanian) is included under [`docs/`](docs/atestat-documentation-ro.pdf) for anyone curious about the process.
 
 Learning resources used along the way:
 - [Sharp Coder — Building a top-down shooter in Unity](https://www.sharpcoderblog.com/blog/building-a-top-down-shooter-game-in-unity)
